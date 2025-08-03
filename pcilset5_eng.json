@@ -639,7 +639,7 @@
   },
   {
     "questionNumber": 59,
-    "question": "Under the Guidelines on Medical and Health Insurance Business, cost-sharing provisions shall be limited to the lower of (excluding deductibles) or (includes of deductibles) and shall not be mandatory.",
+    "question": "Under the Guidelines on Medical and Health Insurance Business, cost-sharing provisions shall be limited to the lower of ______ (excluding deductibles) or ______ (includes of deductibles) and shall not be mandatory.",
     "options": {
       "A": "20% or RM3,000",
       "B": "30% or RM3,000",
@@ -793,7 +793,7 @@
   },
   {
     "questionNumber": 73,
-    "question": "In the assumption of risk by a life insurer, the life insurer",
+    "question": "In the assumption of risk by a life insurer, the life insurer ______",
     "options": {
       "A": "Must have underwritten the risk.",
       "B": "Must receive the total yearly premium after the issuance of the acceptance letter.",
@@ -826,7 +826,7 @@
   },
   {
     "questionNumber": 76,
-    "question": "The payment of policy monies shall be paid upon receipt of claim",
+    "question": "The payment of policy monies shall be paid ______ upon receipt of claim",
     "options": {
       "A": "The administrator",
       "B": "To the deceased’s spouse.",
@@ -837,7 +837,7 @@
   },
   {
     "questionNumber": 77,
-    "question": "The law indicates that a nomination under a life insurance policy by a Non-Muslim owner shall create a trust in favour of the nominee who is the spouse, child or parents. The implication of this on the payment of claims is that policy monies",
+    "question": "The law indicates that a nomination under a life insurance policy by a Non-Muslim owner shall create a trust in favour of the nominee who is the spouse, child or parents. The implication of this on the payment of claims is that policy monies ______",
     "options": {
       "A": "Should be paid to the trustee appointed by the court of law.",
       "B": "Form part of the insured’s estate and must be used to settle debts.",
@@ -870,7 +870,7 @@
   },
   {
     "questionNumber": 80,
-    "question": "The statement made by the life insurance agent is crucial and can become the liability to insurer because the life insurance agent",
+    "question": "The statement made by the life insurance agent is crucial and can become the liability to insurer because the life insurance agent ______",
     "options": {
       "A": "Will have the best lawyer in place to ensure that the insurer follows what he wants.",
       "B": "Is a businessperson that normally signs a contract to make the life insurance company liable.",
@@ -881,7 +881,7 @@
   },
   {
     "questionNumber": 81,
-    "question": "According to Code of Practice, life insurance agents should handle complaints from the clients in proper way. Agent must cooperate with the insurer\nA. In establishing the relationship with the customer to stop complaints.\nB. To make sure that the client do not make any complaints to the insurer.\nC. In establishing the facts and give proper advice of the policyholders’ rights.\nD. To ensure the life insurance company is protecting client’s right.",
+    "question": "According to Code of Practice, life insurance agents should handle complaints from the clients in proper way. Agent must cooperate with the insurer ______",
     "options": {
       "A": "In establishing the relationship with the customer to stop complaints.",
       "B": "To make sure that the client do not make any complaints to the insurer.",
@@ -903,7 +903,7 @@
   },
   {
     "questionNumber": 83,
-    "question": "In , Investment-linked policy was first introduced in Malaysia.",
+    "question": "In ______ , Investment-linked policy was first introduced in Malaysia.",
     "options": {
       "A": "1989",
       "B": "1990",
@@ -914,7 +914,7 @@
   },
   {
     "questionNumber": 84,
-    "question": "The account value is insufficient to cover the cost of insurance on the twelfth year of the investment-linked policy. The policy will",
+    "question": "The account value is insufficient to cover the cost of insurance on the twelfth year of the investment-linked policy. The policy will ______",
     "options": {
       "A": "Lapse.",
       "B": "Be terminated.",
@@ -947,7 +947,7 @@
   },
   {
     "questionNumber": 87,
-    "question": "In order for in-force guarantee which investment-linked policy can be considered as not lapsed even the account value is insufficient to cover the COI and other necessary charges to be satisfied, one of the important rules is",
+    "question": "In order for in-force guarantee which investment-linked policy can be considered as not lapsed even the account value is insufficient to cover the COI and other necessary charges to be satisfied, one of the important rules is ______",
     "options": {
       "A": "The regular premium has been made without fail.",
       "B": "The premium holiday has been effected only once.",
@@ -958,7 +958,7 @@
   },
   {
     "questionNumber": 88,
-    "question": "James, 56 year old, wants to buy an investment-linked policy from XXX Berhad. If his basic regular premium is RM6,000, he will be covered for a minimum of",
+    "question": "James, 56 year old, wants to buy an investment-linked policy from XXX Berhad. If his basic regular premium is RM6,000, he will be covered for a minimum of ______",
     "options": {
       "A": "RM60,000",
       "B": "RM90,000",
@@ -1002,7 +1002,7 @@
   },
   {
     "questionNumber": 92,
-    "question": "Investment-linked policyholders able to keep track of their investment via:",
+    "question": "Investment-linked policyholders able to keep track of their investment via ______",
     "options": {
       "A": "The insurance agent",
       "B": "The branch office of the insurance company",
@@ -1013,7 +1013,7 @@
   },
   {
     "questionNumber": 93,
-    "question": "One advantage of an investment-linked policy that can assist policyholders to manage their investment better is:",
+    "question": "One advantage of an investment-linked policy that can assist policyholders to manage their investment better is ______",
     "options": {
       "A": "Investment-linked funds are managed by professional and expert fund managers.",
       "B": "Investment-linked funds are invested in more secure funds with guaranteed return.",
@@ -1024,7 +1024,7 @@
   },
   {
     "questionNumber": 94,
-    "question": "If policy holders are having difficulties to pay premium, they can choose to request a premium holiday. During a premium holiday:",
+    "question": "If policy holders are having difficulties to pay premium, they can choose to request a premium holiday. During a premium holiday ______",
     "options": {
       "A": "The premium will be paid by the insurance company as an act of goodwill.",
       "B": "The cost of insurance will still be deducted from the account value if it is sufficient.",
@@ -1046,7 +1046,7 @@
   },
   {
     "questionNumber": 96,
-    "question": "If a single person in his twenties has invested purely in bonds or a 70-year-old is found to own very aggressive funds, it shows that:",
+    "question": "If a single person in his twenties has invested purely in bonds or a 70-year-old is found to own very aggressive funds, it shows that",
     "options": {
       "A": "The single person is risk adverse.",
       "B": "The 70-year-old is not risk adverse.",
@@ -1057,7 +1057,7 @@
   },
   {
     "questionNumber": 97,
-    "question": "Investors seeking for capital gains are most NOT likely to be those who invest in:",
+    "question": "Investors seeking for capital gains are most NOT likely to be those who invest in ______",
     "options": {
       "A": "Bonds",
       "B": "Derivatives",
