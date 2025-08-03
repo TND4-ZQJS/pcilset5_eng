@@ -658,5 +658,445 @@
       "D": "Week"
     },
     "answer": ""
+  },
+  {
+    "questionNumber": 61,
+    "question": "Which of the following statements is true?\nI. Equity assets are inherently lower risk in nature\nII. Bond funds are also known as “income” or “fixed income” funds\nIII. Specialised funds are normally segmented based on geographical regions or particular industries\nIV. Property funds are generally considered to be safer that equity funds, but have lower liquidity",
+    "options": {
+      "A": "I, II and III",
+      "B": "I, III and IV",
+      "C": "II, III and IV",
+      "D": "I, II, III and IV"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 62,
+    "question": "All contracts are governed by the general principle of the law of contract as specified in the",
+    "options": {
+      "A": "Insurance Act 1996",
+      "B": "Contracts Act 1950",
+      "C": "Financial Services Act 2013",
+      "D": "Companies Act 1965"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 63,
+    "question": "Identify what happens to a critical illness policy after the sum assured is paid upon the diagnosis of a critical illness listed in the policy",
+    "options": {
+      "A": "The policy is terminated automatically.",
+      "B": "The policy will lapse after the insured’s death.",
+      "C": "The policy continues until another illness is diagnosed.",
+      "D": "The policy will remain in force if premiums paid are up to date."
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 64,
+    "question": "______ is / are the investments that a life office has made from the premiums it has received after meeting its outgoes in the form of claims and expenses.",
+    "options": {
+      "A": "Assets",
+      "B": "Liability",
+      "C": "Surplus",
+      "D": "Market value"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 65,
+    "question": "Group term life insurance is a benefit frequently provided by employers either on a contributory or non-contributory basis. Non-contributory basis means premiums are",
+    "options": {
+      "A": "paid by the government.",
+      "B": "paid entirely by employee.",
+      "C": "paid entirely by employer.",
+      "D": "subsidized by the employer."
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 66,
+    "question": "______ relieves the policyholder of making further premium payments in the event of total permanent disablement.",
+    "options": {
+      "A": "Critical illness rider",
+      "B": "Disability income benefit",
+      "C": "Personal accident rider",
+      "D": "Waiver of premium provision"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 67,
+    "question": "The eligibility criteria to automatically add new employees to a group life policy from the date of recruitment is",
+    "options": {
+      "A": "All employee selected by an internal recruitment process.",
+      "B": "Permanent employees age between 16 to 60.",
+      "C": "Permanent and temporary workers with valid work permits.",
+      "D": "Healthy employees under a contract of service regardless of age."
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 68,
+    "question": "Which statement is correct regarding Terminal Bonus?",
+    "options": {
+      "A": "It is paid in the event of a disability of the insured.",
+      "B": "It creates a right to the bonus beyond the next valuation date.",
+      "C": "It is paid in addition to the surrender value payable at the time requested.",
+      "D": "Where premiums have been discontinued, the bonus will not be payable."
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 69,
+    "question": "Sarah cancelled her policy she applied during the cooling off period, however she didn’t get the full amount of the premium paid. What is the reason?",
+    "options": {
+      "A": "The policy applied for required a medical check-up which the cost is borne by the applicant.",
+      "B": "The policy cannot be cancelled within the cooling off period.",
+      "C": "The policy cannot be cancelled once applied for and paid therefore a penalty is charged.",
+      "D": "The policy will be charged processing fee on each application."
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 70,
+    "question": "______ is a main factor that influences mortality.",
+    "options": {
+      "A": "Age",
+      "B": "Marital status",
+      "C": "Residential address",
+      "D": "Health consciousness"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 71,
+    "question": "______ included refund of premiums during the cooling off period, claims handling expenses, cash value and bonuses paid upon surrender of a policy.",
+    "options": {
+      "A": "Initial expenses",
+      "B": "Renewal expenses",
+      "C": "Termination expenses",
+      "D": "Management expenses"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 72,
+    "question": "______ risk is the risk classification of insurance applicants that is a preferred risk.",
+    "options": {
+      "A": "Standard risk",
+      "B": "Sub-standard risk",
+      "C": "Uninsurable risk",
+      "D": "Below average risk"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 73,
+    "question": "In the assumption of risk by a life insurer, the life insurer",
+    "options": {
+      "A": "Must have underwritten the risk.",
+      "B": "Must receive the total yearly premium after the issuance of the acceptance letter.",
+      "C": "Must receive the acknowledgement form from the client that they have received the policy document.",
+      "D": "Must allow a backdating of the commencement date of insurance to take advantage of discounted premium."
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 74,
+    "question": "Once the insurer receives payment of the initial payment together with completed proposal form, the immediate benefit received by the insured is that if the insured",
+    "options": {
+      "A": "Is diagnosed with critical illness, he is fully covered.",
+      "B": "Accidentally dies, he is fully covered.",
+      "C": "Commits suicide, he is fully covered.",
+      "D": "Dies due to illness, he is covered by basic policy."
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 75,
+    "question": "A claim can arise under any one of the following scenarios EXCEPT",
+    "options": {
+      "A": "Death of the nominee.",
+      "B": "Maturity of the policy.",
+      "C": "Permanent total disability.",
+      "D": "The insured suffering a critical illness."
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 76,
+    "question": "The payment of policy monies shall be paid upon receipt of claim",
+    "options": {
+      "A": "The administrator",
+      "B": "To the deceased’s spouse.",
+      "C": "To the estate of the deceased.",
+      "D": "According to the nomination."
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 77,
+    "question": "The law indicates that a nomination under a life insurance policy by a Non-Muslim owner shall create a trust in favour of the nominee who is the spouse, child or parents. The implication of this on the payment of claims is that policy monies",
+    "options": {
+      "A": "Should be paid to the trustee appointed by the court of law.",
+      "B": "Form part of the insured’s estate and must be used to settle debts.",
+      "C": "Must be paid to the insured’s estate and subject to income tax.",
+      "D": "Do not form part of the insured’s estate and are not subject to any debts."
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 78,
+    "question": "The role of the insurance agent in assisting a claimant receive policy benefit without delay. Which statement is correct?",
+    "options": {
+      "A": "Follow up with the insurer regularly until the claim is settled.",
+      "B": "Discuss with claims department methods to improve customer expectations.",
+      "C": "Ensure relevant supporting documents are submitted within the stipulated time.",
+      "D": "File a complaint with the complaints department if the claim is delayed unnecessarily."
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 79,
+    "question": "According to Code of Conduct for life insurance agents, he / she must be",
+    "options": {
+      "A": "Professional",
+      "B": "International",
+      "C": "Exceptional",
+      "D": "Nationalistic"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 80,
+    "question": "The statement made by the life insurance agent is crucial and can become the liability to insurer because the life insurance agent",
+    "options": {
+      "A": "Will have the best lawyer in place to ensure that the insurer follows what he wants.",
+      "B": "Is a businessperson that normally signs a contract to make the life insurance company liable.",
+      "C": "Is key to the relationship between life insurance company and the client.",
+      "D": "Has the right to make statement and shall be deemed to be statement and act done by the insurer."
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 81,
+    "question": "According to Code of Practice, life insurance agents should handle complaints from the clients in proper way. Agent must cooperate with the insurer\nA. In establishing the relationship with the customer to stop complaints.\nB. To make sure that the client do not make any complaints to the insurer.\nC. In establishing the facts and give proper advice of the policyholders’ rights.\nD. To ensure the life insurance company is protecting client’s right.",
+    "options": {
+      "A": "In establishing the relationship with the customer to stop complaints.",
+      "B": "To make sure that the client do not make any complaints to the insurer.",
+      "C": "In establishing the facts and give proper advice of the policyholders’ rights.",
+      "D": "To ensure the life insurance company is protecting client’s right."
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 82,
+    "question": "Policyholders with complaints against agents who have acted in breach of ethical conduct can refer to the relevant life insurance company. What the agents should do with regards to this?",
+    "options": {
+      "A": "Attempt to solve the matter directly with the policy owner.",
+      "B": "Stop all communication with the policy owner concerned.",
+      "C": "Lodge the dispute with the Ombudsman for Financial Services.",
+      "D": "Work closely with the insurer in establishing the facts of the case."
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 83,
+    "question": "In , Investment-linked policy was first introduced in Malaysia.",
+    "options": {
+      "A": "1989",
+      "B": "1990",
+      "C": "1995",
+      "D": "1999"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 84,
+    "question": "The account value is insufficient to cover the cost of insurance on the twelfth year of the investment-linked policy. The policy will",
+    "options": {
+      "A": "Lapse.",
+      "B": "Be terminated.",
+      "C": "Will be frozen.",
+      "D": "Keep effective as no-lapse guarantee period is triggered."
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 85,
+    "question": "Which statement is correct regarding regular premium investment-linked policy (RPIL)?",
+    "options": {
+      "A": "RPIL is more inclined towards protection than investment.",
+      "B": "RPIL is more inclined towards investment than protection.",
+      "C": "80% of the premium received by the insurer for RPIL is used to purchase funds units in first year.",
+      "D": "100% of the premium received for RPIL is used to purchase fund units in the first year."
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 86,
+    "question": "Regarding Top-Up Premium, which statement is correct?",
+    "options": {
+      "A": "The main goal of top-up premium is to increase the investment-linked policy sum assured.",
+      "B": "The minimum top-up premium is RM5,000 as stated in BNM guidelines.",
+      "C": "Top-up premium will be subjected to an upfront fee of 5% and the balance is used to purchase the funds selected by the policy owner.",
+      "D": "Each top-up premium will be used to purchase the fund selected by the policy owner without any deduction for fees or charges."
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 87,
+    "question": "In order for in-force guarantee which investment-linked policy can be considered as not lapsed even the account value is insufficient to cover the COI and other necessary charges to be satisfied, one of the important rules is",
+    "options": {
+      "A": "The regular premium has been made without fail.",
+      "B": "The premium holiday has been effected only once.",
+      "C": "Partial withdrawal from the account value has been made.",
+      "D": "Investment request like fund switching have been made."
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 88,
+    "question": "James, 56 year old, wants to buy an investment-linked policy from XXX Berhad. If his basic regular premium is RM6,000, he will be covered for a minimum of",
+    "options": {
+      "A": "RM60,000",
+      "B": "RM90,000",
+      "C": "RM180,000",
+      "D": "RM360,000"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 89,
+    "question": "The priority of single premium investment-linked policyholders is",
+    "options": {
+      "A": "Investment first and protection second.",
+      "B": "Protection first and investment second.",
+      "C": "Return first and capital guarantee second.",
+      "D": "Capital guarantee first and return second."
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 90,
+    "question": "Regarding the deduction of cost of insurance (COI) for single premium investment-linked, which statement is correct?",
+    "options": {
+      "A": "Deduction of COI will be made annually in any circumstances.",
+      "B": "The COI is used to cover the basic sum assured and future premium in advance.",
+      "C": "Deduction of COI is to cover the shortfall between the account value and the sum assured.",
+      "D": "The COI will still be deducted even though the account value of policy exceeds the basic sum assured."
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 91,
+    "question": "The followings are incorrect regarding the difference between an investment-linked policy (ILP) and whole life policy (WLP), EXCEPT:",
+    "options": {
+      "A": "An ILP is given tax relief but a WLP is not.",
+      "B": "An ILP does not cover up to age 100 but a WLP does.",
+      "C": "An ILP is not issued by an insurer company but a WLP is.",
+      "D": "An ILP policyholder can choose from range of investment funds but a WLP policyholders cannot."
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 92,
+    "question": "Investment-linked policyholders able to keep track of their investment via:",
+    "options": {
+      "A": "The insurance agent",
+      "B": "The branch office of the insurance company",
+      "C": "The fund manager of the insurance company",
+      "D": "The unit statements provided regularly by the insurance company"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 93,
+    "question": "One advantage of an investment-linked policy that can assist policyholders to manage their investment better is:",
+    "options": {
+      "A": "Investment-linked funds are managed by professional and expert fund managers.",
+      "B": "Investment-linked funds are invested in more secure funds with guaranteed return.",
+      "C": "Policy owners can decide to invest into any fund houses available in Malaysia via electronic platform.",
+      "D": "Policy owners can rest assured that their investment will never suffer a loss due to government guarantee."
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 94,
+    "question": "If policy holders are having difficulties to pay premium, they can choose to request a premium holiday. During a premium holiday:",
+    "options": {
+      "A": "The premium will be paid by the insurance company as an act of goodwill.",
+      "B": "The cost of insurance will still be deducted from the account value if it is sufficient.",
+      "C": "The BNM Emergency Fund will be used to pay the premium via the insurance company.",
+      "D": "The premium paid by other policy holders will be used to pay the premium of the policy holders who take a premium holiday."
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 95,
+    "question": "_____ will significantly affect the investment decision.",
+    "options": {
+      "A": "The market conditions",
+      "B": "The level of funds available",
+      "C": "The number of family members",
+      "D": "The characteristic of the movement"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 96,
+    "question": "If a single person in his twenties has invested purely in bonds or a 70-year-old is found to own very aggressive funds, it shows that:",
+    "options": {
+      "A": "The single person is risk adverse.",
+      "B": "The 70-year-old is not risk adverse.",
+      "C": "Risk profiling exercise may not have been done.",
+      "D": "Older people are more aggressive in their investment strategy."
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 97,
+    "question": "Investors seeking for capital gains are most NOT likely to be those who invest in:",
+    "options": {
+      "A": "Bonds",
+      "B": "Derivatives",
+      "C": "Fixed deposits",
+      "D": "Fixed, ongoing source of investment"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 98,
+    "question": "Generally, people invest for the following reason:\nI. Hedging inflation\nII. Liabilities cancellation\nIII. Postpone retirement age\nIV. Prepare education funds for children.",
+    "options": {
+      "A": "I & II",
+      "B": "I, II & III",
+      "C": "I, II & IV",
+      "D": "All of above"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 99,
+    "question": "Regarding Real Estate Investment Trust (REIT), which one is correct?",
+    "options": {
+      "A": "The security is either a fixed charge on the company’s property or some of its assets such as trading stock.",
+      "B": "Apart from investing in and managing properties, it distributes rental income as dividends back to the investor.",
+      "C": "The holder is a part-owner of the company and is entitled to share in its profits in the form of the dividends.",
+      "D": "The investor can convert his investment from a fixed interest loan to being a part-owner and be entitled for the company’s profit."
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 100,
+    "question": "_____ are a category of corporate bonds.",
+    "options": {
+      "A": "Stocks",
+      "B": "Ordinary shares",
+      "C": "Debenture stocks",
+      "D": "Preference shares"
+    },
+    "answer": ""
   }
 ]
