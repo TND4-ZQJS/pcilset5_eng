@@ -438,5 +438,225 @@
       "D": "Offer and acceptance"
     },
     "answer": ""
+  },
+  {
+    "questionNumber": 41,
+    "question": "This is a method of distributing surplus:",
+    "options": {
+      "A": "Simple or compound reversionary bonuses",
+      "B": "Common and general bonuses",
+      "C": "Extra or surpluses bonuses",
+      "D": "Simple or compound interest bonuses"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 42,
+    "question": "Ostensible authority can arise in the following situations:\nI. Where the agent performs those acts, which are usually performed by persons in the agent’s position or usual in a particular trade or profession\nII. Where the principal has restricted the authority of a validity appointed agent\nIII. Where, unknown to the third party, the authority of the agent has been terminated\nIV. Where the instructions have been given to the agent stating what is required and what is allowed",
+    "options": {
+      "A": "I and II",
+      "B": "II and III",
+      "C": "III and IV",
+      "D": "I, II and III"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 43,
+    "question": "What constitutes a consideration on the part of insurer in an insurance contract?",
+    "options": {
+      "A": "The promise to collect premium from the insured",
+      "B": "The promise to collect premium from agents",
+      "C": "The promise that no accident will occur to the subject matter of insurance",
+      "D": "The promise to indemnify the insured"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 44,
+    "question": "Which of the following does NOT form part of the recital clause of an insurance policy?",
+    "options": {
+      "A": "That the insured has paid or agreed to pay the premium",
+      "B": "A reference to the written proposal, declaration and any other statements made by the insured",
+      "C": "That the insured has proposed to the company",
+      "D": "The company’s name, address and place of incorporation"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 45,
+    "question": "What must all registered agents sign to ensure they conduct business with utmost good faith and integrity?",
+    "options": {
+      "A": "A statutory declaration",
+      "B": "A health declaration",
+      "C": "The code of practice",
+      "D": "The agency agreement"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 46,
+    "question": "Identify the major difference an ordinary whole life and a limited payment whole life policy.",
+    "options": {
+      "A": "Premiums on an ordinary whole life policy are payable for the remaining lifetime of the insured whilst premiums on a limited payment whole life policy are payable for a limited period.",
+      "B": "An ordinary whole life policy accumulates cash value faster than a limited payment whole life policy",
+      "C": "An ordinary whole life policy gives protection for a lifetime, while a limited payment policy provides protection for a limited period",
+      "D": "An ordinary whole life policy is non-participating whereas a limited payment whole life policy is participating"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 47,
+    "question": "The Guideline on Medical and Health Insurance Business (Revised) which came into effect 1 January 2006, aim to…",
+    "options": {
+      "A": "Enhance consumer awareness and enable consumers to make informed decisions",
+      "B": "Promote more equitable and consistent treatment of consumers covered under MHI policies",
+      "C": "Provides specified benefits against risk of persons becoming totally or partially incapacitated",
+      "D": "To complement employees’ health benefit compensation package"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 48,
+    "question": "The investment-linked insurance business is a contract of…",
+    "options": {
+      "A": "Insurance providing like coverage and investment return",
+      "B": "Investment in properties",
+      "C": "Life insurance",
+      "D": "Investment in human life"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 49,
+    "question": "A principal-agent relationship CANNOT be created by the following ways:",
+    "options": {
+      "A": "Revocation",
+      "B": "Apparent authority",
+      "C": "Consent",
+      "D": "Ratification"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 50,
+    "question": "In the risk-return profile of cash funds, bond funds, balanced funds, managed funds and equity funds a risk-return graph will show that\nI. Higher return normally comes with lower risk\nII. Higher return normally comes with higher risk\nIII. At the top end of the graph are the equity funds\nIV. The relatively riskless cash funds sit at the bottom end of the graph",
+    "options": {
+      "A": "I, II and III",
+      "B": "I, II and IV",
+      "C": "I, III and IV",
+      "D": "II, III and IV"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 51,
+    "question": "Health insurers are very careful not to accept unhealthy persons at standard premium rates as these results in a less favourable underwriting result. This occurs when an applicant who knows that he has a very high probability of loss submits a proposal for health insurance. This situation is known as",
+    "options": {
+      "A": "Averse selection",
+      "B": "Poor selection",
+      "C": "Anti-selection",
+      "D": "Risk selection"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 52,
+    "question": "Decreasing term insurance is a form of term insurance in which",
+    "options": {
+      "A": "The insurance cover will terminate when the insured reaches 50 years of age",
+      "B": "The sum insured reduces each year until a small or no cover remains at the end of the term",
+      "C": "The bonus reduces each year",
+      "D": "It can be converted to a whole life policy any time"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 53,
+    "question": "How is the death benefit under the investment-linked life insurance policy determined?\nI. By the sum assured plus bonus declared\nII. By the value of units plus the sum assured cover\nIII. By the value of the units or the death cover, whichever is higher",
+    "options": {
+      "A": "I only",
+      "B": "II only",
+      "C": "II and III",
+      "D": "I, II and III"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 54,
+    "question": "When using the single pricing method, what comprises the formula to determine the number of units a policyholder of an investment-linked life insurance policy is entry\nI. Age of policyholder\nII. The premium received\nIII. Deduction of policy charge\nIV. The unit price",
+    "options": {
+      "A": "II and III",
+      "B": "II and IV",
+      "C": "I, III and IV",
+      "D": "II, III and IV"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 55,
+    "question": "How does Perbadanan Insurans Deposit Malaysia (PIDM) complement the role of the Central Bank of Malaysia?",
+    "options": {
+      "A": "By protecting financial consumers against unscrupulous agents",
+      "B": "By providing immediate resolution to customer complaints",
+      "C": "By providing a safety net for depositors and insurance policy owners in the event of insolvency",
+      "D": "By protecting insurance companies against financial losses"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 56,
+    "question": "In the context of taxation, what is the difference between the different types of investment?",
+    "options": {
+      "A": "Only investment-linked life insurance investment portfolios are subject to taxation",
+      "B": "There is no difference",
+      "C": "There are no special tax laws relating to investment-linked life insurance products",
+      "D": "Different types of investment are taxed differently"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 57,
+    "question": "The basic types of real estate investment include\nI. Commercial/industrial property\nII. Oceansliners and aircrafts\nIII. Domestic property\nIV. Agricultural property",
+    "options": {
+      "A": "I, II and III",
+      "B": "I, III and IV",
+      "C": "II, III and IV",
+      "D": "I, II, III and IV"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 58,
+    "question": "Group insurance cover for a member of a group terminates when this member",
+    "options": {
+      "A": "Is given more responsibilities with this group",
+      "B": "Has a child",
+      "C": "Leaves the company",
+      "D": "Marries"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 59,
+    "question": "Under the Guidelines on Medical and Health Insurance Business, cost-sharing provisions shall be limited to the lower of (excluding deductibles) or (includes of deductibles) and shall not be mandatory.",
+    "options": {
+      "A": "20% or RM3,000",
+      "B": "30% or RM3,000",
+      "C": "30% of RM5,000",
+      "D": "20% or RM5,000"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 60,
+    "question": "According to the guidelines on investment-linked business, the valuation of units shall be carried out every",
+    "options": {
+      "A": "Business week",
+      "B": "Business day",
+      "C": "Day",
+      "D": "Week"
+    },
+    "answer": ""
   }
 ]
