@@ -778,7 +778,7 @@
       "C": "Termination expenses",
       "D": "Management expenses"
     },
-    "answer": ""
+    "answer": "A"
   },
   {
     "questionNumber": 72,
@@ -789,7 +789,7 @@
       "C": "Uninsurable risk",
       "D": "Below average risk"
     },
-    "answer": ""
+    "answer": "B"
   },
   {
     "questionNumber": 73,
@@ -800,7 +800,7 @@
       "C": "Must receive the acknowledgement form from the client that they have received the policy document.",
       "D": "Must allow a backdating of the commencement date of insurance to take advantage of discounted premium."
     },
-    "answer": ""
+    "answer": "A"
   },
   {
     "questionNumber": 74,
@@ -811,7 +811,7 @@
       "C": "Commits suicide, he is fully covered.",
       "D": "Dies due to illness, he is covered by basic policy."
     },
-    "answer": ""
+    "answer": "A"
   },
   {
     "questionNumber": 75,
@@ -822,7 +822,7 @@
       "C": "Permanent total disability.",
       "D": "The insured suffering a critical illness."
     },
-    "answer": ""
+    "answer": "A"
   },
   {
     "questionNumber": 76,
@@ -833,7 +833,7 @@
       "C": "To the estate of the deceased.",
       "D": "According to the nomination."
     },
-    "answer": ""
+    "answer": "D"
   },
   {
     "questionNumber": 77,
@@ -844,7 +844,7 @@
       "C": "Must be paid to the insured’s estate and subject to income tax.",
       "D": "Do not form part of the insured’s estate and are not subject to any debts."
     },
-    "answer": ""
+    "answer": "B"
   },
   {
     "questionNumber": 78,
@@ -855,7 +855,7 @@
       "C": "Ensure relevant supporting documents are submitted within the stipulated time.",
       "D": "File a complaint with the complaints department if the claim is delayed unnecessarily."
     },
-    "answer": ""
+    "answer": "B"
   },
   {
     "questionNumber": 79,
@@ -866,7 +866,7 @@
       "C": "Exceptional",
       "D": "Nationalistic"
     },
-    "answer": ""
+    "answer": "B"
   },
   {
     "questionNumber": 80,
@@ -877,7 +877,7 @@
       "C": "Is key to the relationship between life insurance company and the client.",
       "D": "Has the right to make statement and shall be deemed to be statement and act done by the insurer."
     },
-    "answer": ""
+    "answer": "B"
   },
   {
     "questionNumber": 81,
@@ -888,7 +888,7 @@
       "C": "In establishing the facts and give proper advice of the policyholders’ rights.",
       "D": "To ensure the life insurance company is protecting client’s right."
     },
-    "answer": ""
+    "answer": "D"
   },
   {
     "questionNumber": 82,
@@ -899,7 +899,7 @@
       "C": "Lodge the dispute with the Ombudsman for Financial Services.",
       "D": "Work closely with the insurer in establishing the facts of the case."
     },
-    "answer": ""
+    "answer": "B"
   },
   {
     "questionNumber": 83,
@@ -910,7 +910,7 @@
       "C": "1995",
       "D": "1999"
     },
-    "answer": ""
+    "answer": "C"
   },
   {
     "questionNumber": 84,
@@ -921,7 +921,7 @@
       "C": "Will be frozen.",
       "D": "Keep effective as no-lapse guarantee period is triggered."
     },
-    "answer": ""
+    "answer": "D"
   },
   {
     "questionNumber": 85,
@@ -932,7 +932,7 @@
       "C": "80% of the premium received by the insurer for RPIL is used to purchase funds units in first year.",
       "D": "100% of the premium received for RPIL is used to purchase fund units in the first year."
     },
-    "answer": ""
+    "answer": "B"
   },
   {
     "questionNumber": 86,
@@ -943,7 +943,7 @@
       "C": "Top-up premium will be subjected to an upfront fee of 5% and the balance is used to purchase the funds selected by the policy owner.",
       "D": "Each top-up premium will be used to purchase the fund selected by the policy owner without any deduction for fees or charges."
     },
-    "answer": ""
+    "answer": "A"
   },
   {
     "questionNumber": 87,
@@ -954,7 +954,7 @@
       "C": "Partial withdrawal from the account value has been made.",
       "D": "Investment request like fund switching have been made."
     },
-    "answer": ""
+    "answer": "C"
   },
   {
     "questionNumber": 88,
@@ -965,7 +965,7 @@
       "C": "RM180,000",
       "D": "RM360,000"
     },
-    "answer": ""
+    "answer": "C"
   },
   {
     "questionNumber": 89,
@@ -976,7 +976,7 @@
       "C": "Return first and capital guarantee second.",
       "D": "Capital guarantee first and return second."
     },
-    "answer": ""
+    "answer": "D"
   },
   {
     "questionNumber": 90,
@@ -987,7 +987,7 @@
       "C": "Deduction of COI is to cover the shortfall between the account value and the sum assured.",
       "D": "The COI will still be deducted even though the account value of policy exceeds the basic sum assured."
     },
-    "answer": ""
+    "answer": "C"
   },
   {
     "questionNumber": 91,
@@ -998,7 +998,7 @@
       "C": "An ILP is not issued by an insurer company but a WLP is.",
       "D": "An ILP policyholder can choose from range of investment funds but a WLP policyholders cannot."
     },
-    "answer": ""
+    "answer": "C"
   },
   {
     "questionNumber": 92,
@@ -1009,7 +1009,7 @@
       "C": "The fund manager of the insurance company",
       "D": "The unit statements provided regularly by the insurance company"
     },
-    "answer": ""
+    "answer": "B"
   },
   {
     "questionNumber": 93,
@@ -1020,7 +1020,7 @@
       "C": "Policy owners can decide to invest into any fund houses available in Malaysia via electronic platform.",
       "D": "Policy owners can rest assured that their investment will never suffer a loss due to government guarantee."
     },
-    "answer": ""
+    "answer": "C"
   },
   {
     "questionNumber": 94,
@@ -1031,7 +1031,7 @@
       "C": "The BNM Emergency Fund will be used to pay the premium via the insurance company.",
       "D": "The premium paid by other policy holders will be used to pay the premium of the policy holders who take a premium holiday."
     },
-    "answer": ""
+    "answer": "C"
   },
   {
     "questionNumber": 95,
@@ -1042,7 +1042,7 @@
       "C": "The number of family members",
       "D": "The characteristic of the movement"
     },
-    "answer": ""
+    "answer": "B"
   },
   {
     "questionNumber": 96,
@@ -1053,7 +1053,7 @@
       "C": "Risk profiling exercise may not have been done.",
       "D": "Older people are more aggressive in their investment strategy."
     },
-    "answer": ""
+    "answer": "A"
   },
   {
     "questionNumber": 97,
@@ -1064,7 +1064,7 @@
       "C": "Fixed deposits",
       "D": "Fixed, ongoing source of investment"
     },
-    "answer": ""
+    "answer": "C"
   },
   {
     "questionNumber": 98,
@@ -1075,7 +1075,7 @@
       "C": "I, II & IV",
       "D": "All of above"
     },
-    "answer": ""
+    "answer": "A"
   },
   {
     "questionNumber": 99,
@@ -1086,7 +1086,7 @@
       "C": "The holder is a part-owner of the company and is entitled to share in its profits in the form of the dividends.",
       "D": "The investor can convert his investment from a fixed interest loan to being a part-owner and be entitled for the company’s profit."
     },
-    "answer": ""
+    "answer": "D"
   },
   {
     "questionNumber": 100,
@@ -1097,6 +1097,6 @@
       "C": "Debenture stocks",
       "D": "Preference shares"
     },
-    "answer": ""
+    "answer": "D"
   }
 ]
